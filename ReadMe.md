@@ -167,4 +167,6 @@ Fragment 인스턴스는 당신이 다시 돌아왔을 때 재생성되고 상�
 - 뷰페이저안의 프래그먼트의 대체안으로 뷰를 사용할 수 있다고 하는데, 코드가 어떻게 다르고, 뭐가 더 편한지 고려해 보기.
 
 ## Output
-- 생략
+- 참고 : [ViewPagerWithFragment](http://grandbig.github.io/blog/2016/01/30/android-tablayout/)
+
+![ViewPagerWithFragment](http://grandbig.github.io/images/android-tablayout.png)
