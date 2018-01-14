@@ -2,7 +2,7 @@
 
 ## 수업 내용
 
-- Fragment와 ViewPager를 사용해 TabLayout을 만들어봄.
+- Fragment와 ViewPager를 사용해 TabLayout을 만드는 학습
 
 ## Code Review
 
